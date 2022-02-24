@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/Cellar/node/16.12.0/bin/node /usr/local/bin/yarn i
+
+PATH: 
+  /Users/gabrielnyante/.rvm/gems/ruby-3.0.0/bin:/Users/gabrielnyante/.rvm/gems/ruby-3.0.0@global/bin:/Users/gabrielnyante/.rvm/rubies/ruby-3.0.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/gabrielnyante/.rvm/gems/ruby-3.0.0/bin:/Users/gabrielnyante/.rvm/gems/ruby-3.0.0@global/bin:/Users/gabrielnyante/.rvm/rubies/ruby-3.0.0/bin:/Users/gabrielnyante/miniconda3/bin:/Users/gabrielnyante/miniconda3/condabin:/Users/gabrielnyante/.rvm/bin:/Users/gabrielnyante/.rvm/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.12.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/gabrielnyante/Desktop/Buildspace-DAO-Starter/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
